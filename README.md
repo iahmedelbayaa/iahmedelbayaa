@@ -28,7 +28,7 @@
 
 <!-- - Problem solver on [Leetcode](https://leetcode.com/omarhosny102). -->
 
-- Experienced in Node Js and Express frameworks.
+- Experienced in Node Js and Express, Nestjs frameworks.
 
 - Developed Backend projects that are available [here](https://github.com/iahmedelbayaa?tab=repositories)
 
