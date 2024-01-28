@@ -12,13 +12,13 @@
 
 
 
-<!-- <p align="center"> 
+ <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=iahmedelbayaa&label=Profile%20views&color=0047AB&style=plastic?" alt="iahmedelbayaa" height=25px, width=160px/> 
 	<a href = "https://commits.top/egypt.html" target="_blank">
 		<img src="https://aktive.tk/egypt/iahmedelbayaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
 	</a>
 
-</p> -->
+</p> 
 
 
 
@@ -26,7 +26,7 @@
 
 - Interested in Backend development.
 
-<!-- - Problem solver on [Leetcode](https://leetcode.com/omarhosny102). -->
+ - Problem solver on [Leetcode](https://leetcode.com/ahmed908). 
 
 - Experienced in Node Js and Express, Nestjs frameworks.
 
@@ -45,10 +45,6 @@
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" 
       alt="c++"/> 
   </a>
-  <!-- <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
-      alt="java"/> 
-  </a> -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/> 
@@ -62,13 +58,6 @@
 
 <h3 align="center"><b>Backend</h3>
 <p align="center">
-    <!-- <a href="https://spring.io/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"
-      alt="spring"/> 
-   </a>
-   <a href="https://spring.io/" target="_blank"> 
-    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
-  </a> -->
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
@@ -76,6 +65,10 @@
   <a href="https://expressjs.com" target="_blank">
     <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
       alt="express" />
+  </a>
+<a href="https://nestjs.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white"
+      alt="Nestjs"/> 
   </a>
 </p>
 
@@ -116,7 +109,7 @@
   </a>
 </p>
 
-<!--
+
 <h3 align="center"><b>Caching</h3>
 <p align="center">
  <a href="https://redis.io" target="_blank"> 
@@ -124,9 +117,9 @@
       alt="redis"/>
   </a>
 </p>
--->
 
-<!--
+
+
 <h3 align="center"><b>Testing</h3>
 <p align="center"> 
   <a href="https://www.selenium.dev" target="_blank"> 
@@ -137,7 +130,7 @@
     <img src="https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="junit5" /> 
   </a> 
 </p>
--->
+
 
 <h3 align="center"><b>Version Control</h3>
 <p align="center">
@@ -165,13 +158,13 @@
     <img src="https://camo.githubusercontent.com/e72c2a6e52df2d1ff78867b6eafa3a97a48267bcbe22710fbf204883d056a6f7/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d416d617a6f6e2b533326636f6c6f723d353639413331266c6f676f3d416d617a6f6e2b5333266c6f676f436f6c6f723d464646464646266c6162656c3d"
       alt="aws s3"/>
   </a>
-<!--   <a href="https://aws.amazon.com/sqs/" target="_blank">
+   <a href="https://aws.amazon.com/sqs/" target="_blank">
     <img src="https://camo.githubusercontent.com/fc6e33181bd12a96f854fe2b7ad5eea13fec6a30020a2e89476ea16d3912680e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d416d617a6f6e2b53515326636f6c6f723d464634463842266c6f676f3d416d617a6f6e2b535153266c6f676f436f6c6f723d464646464646266c6162656c3d"
       alt="aws sqs"/>
-  </a> -->
+  </a> 
 </p>
 
-<!-- <h3 align="center">Cloud & Hosting:</h3>
+ <h3 align="center">Cloud & Hosting:</h3>
 <p align="center">
   <a href="https://azure.microsoft.com/en-in/" target="_blank">
     <img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/>
