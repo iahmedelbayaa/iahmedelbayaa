@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elbayaa </h1
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=2000&pause=800&center=true&vCenter=true&random=false&width=435&lines=NodeJS+Developer;Back-end+Developer" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=2000&pause=800&center=true&vCenter=true&random=false&width=435&lines=NodeJS+Developer;Back-End+Developer" alt="Typing SVG" /></a></p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=iahmedelbayaa&label=Profile%20views&color=0e75b6&style=flat" alt="iahmedelbayaa" /> <img src="https://img.shields.io/github/followers/elshafie?label=Followers" alt="iahmedelbayaa" />
 </p>
