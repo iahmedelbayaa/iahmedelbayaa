@@ -13,7 +13,7 @@
 
 - 👨‍💻 Explore my projects at [iahmedelbayaa.netlify.app](https://iahmedelbayaa.netlify.app)
 
-- 💬 Ask me about **Node.js ,ExpressJs ,NestJs **
+- 💬 Ask me about **Node.js ,ExpressJs ,NestJs**
 
 - 📫 Reach me at **elbayaaahmed845@gmail.com**
 
@@ -26,8 +26,8 @@
 <a href="mailto:elbayaaahmed845@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/iahmedelbayaa" target="_blank">
-<img src="https://img.shields.io/badge/iahmedelbayaa-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/iahmedelbaya3" target="_blank">
+<img src="https://img.shields.io/badge/iahmedelbaya3-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/iahmedelbayaa" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 </p>
