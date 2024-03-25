@@ -1,58 +1,122 @@
-<h1 align="center">Hi 👋, I'm Ahmed Elbayaa </h1
+<h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
+<p align='center'>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Ahmad+Waseem+Piracha;Software+Engineer;Backend+Developer;NodeJs+Developer;%40Ahmed Elbayaa">
+</p>
+	<img src="https://komarev.com/ghpvc/?username=iahmedelbayaa&label=Profile%20views&color=0047AB&style=plastic?" alt="iahmedelbayaa" height=25px, width=160px/> 
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=2000&pause=800&center=true&vCenter=true&random=false&width=435&lines=NodeJS+Developer;Back-End+Developer" alt="Typing SVG" /></a></p>
+<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=iahmedelbayaa&label=Profile%20views&color=0e75b6&style=flat" alt="iahmedelbayaa" /> <img src="https://img.shields.io/github/followers/elshafie?label=Followers" alt="iahmedelbayaa" />
+
+- 🌱 I’m currently learning **Backend Development**
+
+- 👨‍💻 Explore my projects at [iahmedelbayaa.netlify.app](https://iahmedelbayaa.netlify.app)
+
+- 💬 Ask me about **Node.js ,ExpressJs ,NestJs **
+
+- 📫 Reach me at **elbayaaahmed845@gmail.com**
+
+- 📄 Learn more about my experiences at [iahmedelbayaa.netlify.app](https://iahmedelbayaa.netlify.app)
+
+
+### Connect with me 🔗 :
+<br>
+<p align='center'>
+<a href="mailto:elbayaaahmed845@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/iahmedelbayaa" target="_blank">
+<img src="https://img.shields.io/badge/iahmedelbayaa-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/iahmedelbayaa" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 <br>
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="300px" />
 
-- 🔭 I’m a self-taught Backend Developer . 
-- 🌱 I’m currently learning more advanced topics in this stack.
+## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 
----
-## Tech Skills:
+<!-- Programming Languages -->
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
+
+<a href="https://www.cplusplus.com/" target="_blank">
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</a>
+
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+</a>
+
+<!-- Web Development -->
 
 
+<a href="https://www.mongodb.com/" target="_blank">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</a>
+<a href="https://expressjs.com/" target="_blank">
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+</a>
+
+<a href="https://reactjs.org/" target="_blank">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+</a>
+<a href="https://nodejs.org/" target="_blank">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+</a>
 
 
 
+<!-- Database -->
+<a href="https://www.mysql.com/" target="_blank">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</a>
 
----
-## Contact Me:
+<!-- Version Control and Collaboration -->
+<a href="https://github.com/" target="_blank">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elbayaaahmed845@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iahmedelbayaa/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/iahmedelbayaa) 
+<a href="https://git-scm.com/" target="_blank">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</a>
 
----
-## Githup Status:
-![](https://github-readme-streak-stats.herokuapp.com/?user=elshafie&theme=cobalt&hide_border=false)
-![Ahmed Elbayaa github stats](https://github-readme-stats.vercel.app/api?username=iahmedelbayaa&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iahmedelbayaa&theme=cobalt&hide=html,css&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Design Tools -->
+<a href="https://www.figma.com/" target="_blank">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</a>
+
+<!-- Tools and Platforms -->
+
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 
----
-## Achievements:
-![](https://github-profile-trophy.vercel.app/?username=iahmedelbayaa&theme=cobalt&no-frame=false&no-bg=true&margin-w=4)
+
+## Github Contribution Streak 🔥 
+<br>
+<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=iahmedelbayaa&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
+
+<hr><br>
+
+## Github Stats &nbsp;📊
+<br>
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=iahmedelbayaa&show_icons=true&theme=github_dark">
+</p>
+<hr>
+<br>
+
+## Most Used Languages 📚
+<br>
+<p align='center'>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iahmedelbayaa&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+</p>
+
+<hr>
+<br>
+
+------
+Credit: [Ahmad Elbayaa](https://github.com/iahmedelbayaa)
+
