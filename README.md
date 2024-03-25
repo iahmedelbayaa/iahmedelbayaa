@@ -11,13 +11,12 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 Explore my projects at [iahmedelbayaa.netlify.app](https://iahmedelbayaa.netlify.app)
+- 👨‍💻 Explore my projects at [Repositories](https://github.com/iahmedelbayaa?tab=repositories)
 
 - 💬 Ask me about **Node.js ,ExpressJs ,NestJs**
 
 - 📫 Reach me at **elbayaaahmed845@gmail.com**
 
-- 📄 Learn more about my experiences at [iahmedelbayaa.netlify.app](https://iahmedelbayaa.netlify.app)
 
 
 ### Connect with me 🔗 :
