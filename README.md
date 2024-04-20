@@ -13,7 +13,7 @@
 
 - 👨‍💻 Explore my projects at [Repositories](https://github.com/iahmedelbayaa?tab=repositories)
 
-- 💬 Ask me about **Node.js ,ExpressJs ,NestJs**
+- 💬 Ask me about **Node.js ,ExpressJs ,NestJs, Java, SpringBoot**
 
 - 📫 Reach me at **elbayaaahmed845@gmail.com**
 
