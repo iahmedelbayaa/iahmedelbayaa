@@ -1,6 +1,6 @@
 <h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Ahmad+Elbayaa;Software+Engineer;Backend+Developer;NodeJS+Developer;Java+SpringBoot+Developer;%40iahmedelbayaa">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Ahmad+Elbayaa;Software+Engineer;Backend+Developer;NodeJS+Developer;%40iahmedelbayaa">
 </p>
 	<img src="https://komarev.com/ghpvc/?username=iahmedelbayaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 Explore my projects at [Repositories](https://github.com/iahmedelbayaa?tab=repositories)
 
-- 💬 Ask me about **Node.js ,ExpressJs ,NestJs, Java, SpringBoot**
+- 💬 Ask me about **Node.js ,ExpressJs ,NestJs**
 
 - 📫 Reach me at **elbayaaahmed845@gmail.com**
 
