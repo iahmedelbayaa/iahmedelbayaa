@@ -9,8 +9,8 @@
   </ul>
 </div>
 
-![GitHub Snake Light](https://github.com/iahmedelbayaa/iahmedelbayaa/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/iahmedelbayaa/iahmedelbayaa/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake](https://github.com/iahmedelbayaa/iahmedelbayaa/blob/output/github-contribution-grid-snake.svg)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
