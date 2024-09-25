@@ -1,117 +1,185 @@
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Ahmed</h1></summary>
-  </ul>
-</div>
-
-![GitHub Snake](https://raw.githubusercontent.com/iahmedelbayaa/iahmedelbayaa/output/github-contribution-grid-snake.svg)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
-
-
-
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –   iahmedelbayaa !
-<!--Intro end-->
-
-
-
-<!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=iahmedelbayaa&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iahmedelbayaa&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iahmedelbayaa&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-## Contribution Graph 📊
-
-[![Dhanush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iahmedelbayaa&theme=high-contrast)](https://github.com/iahmedelbayaa/github-readme-activity-graph)
-
-
-
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=iahmedelbayaa&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    <a href="http://aashisjha.com.np" target="_blank">
+        <img src="https://github.com/OracleBrain/OracleBrain/blob/main/wth-smile.gif?raw=true" width="120" height="120" alt="Description of the image">
     </a>
-</div>
-<!--- trophy (start) -->
+</p>
 
 
-</p>        
-<!--- stats (end) -->
 
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,discord,docker,postgres,express,github,html,java,js,linux,mongodb,mysql,nodejs,postman,py,vscode,kubernetes&perline=14" />
+  <a href="https://github.com/iahmedelbayaa/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;YOUTUBER%20;EXPERIENCED%20UI%2FUX%20DESIGNER;3%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+  <a href="https://github.com/iahmedelbayaa">
+    <img src="contributions.svg" />
+  </a>
 
-<!--icons and links-->
+
+
+
+
+<p align="center"> 
+ 🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
+  <img src="https://profile-counter.glitch.me/iahmedelbayaa/count.svg"/>
+
 <p align="center">
-<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iahmedelbayaa&theme=shadow_blue&layout=compact"width="48%"/> 
+</p>  
+
+<!---
+<a href="https://github.com/oraclebrain/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oraclebrain&repo=github-readme-stats&theme=shadow_green" />
+</a>
+----------->
+<p align="center">
+  <a href="https://github.com/iahmedelbayaa?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=iahmedelbayaa&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@iahmedelbayaa's github-readme-stats">
+  </a>
+  <a href="https://github.com/iahmedelbayaa?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=iahmedelbayaa&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@AJ's github-readme-streak-stats">
+  </a>
+</p>
+<br/>
+
+
   
+<p align="center">
+  🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴
+   </p>
+<p align="center">
+<a href="https://www.buymeacoffee.com/aashisjha" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
+<a href="https://discord.com/users/iahmedelbayaa" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
+<a href="https://iahmedelbayaa.github.io/ahmed-elbayaa-portfolio/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://fb.com/iahmedelbayaa" target="_blank"><img alt="" src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998" style="vertical-align:center" /></a>
+<a href="https://twitter.com/iahmedelbayaa" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://instagram.com/iahmedelbayaa" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
+<a href="https://linkedin.com/in/iahmedelbayaa" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="mailto:elbayaaahmed845@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
+<!-- <a href="https://replit.com/@aashisjha" target="_blank"><img alt="" src="https://img.shields.io/badge/replit-000?style=for-the-badge&logo=replit&logoColor=FFA500" style="vertical-align:center" /></a>
+<a href="https://codepen.io/OracleBrain" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
+<a href="https://www.youtube.com/@OracleBrain" target="_blank"><img alt="" src="https://img.shields.io/badge/OracleBrain%20-000?style=for-the-badge&logo=youtube&logoColor=white" style="vertical-align:center" /></a> -->
+
+</p>
+
+<br />
+
+<p align="center"> 
+ 🆃🅴🅲🅷 🆂🆃🅰🅲🅺<br>
+  </p>
+
+---
+
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a>
+  <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" /></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" /></a>
+</p>
+
+<p align="center">
+  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /></a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /></a>
+  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
+  <a href="https://d3js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40" /></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /></a>
+  <a href="https://www.gatsbyjs.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
+  <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="40" height="40" /></a>
+  <a href="https://www.qt.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40" /></a>
+  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /></a>
+<a href="https://www.linux.org" target="_blank"><img src="https://seeklogo.com/images/K/kali-linux-logo-93027C57BD-seeklogo.com.png" alt="linux" width="40" height="40" /></a>  
+<a href="https://www.apple.com/macos/sonoma/" target="_blank"><img src="https://www.svgrepo.com/show/349442/macos.svg" alt="macos" width="40" height="40" /></a>
+  <a href="https://code.visualstudio.com" target="_blank"><img src="https://www.svgrepo.com/show/342347/visual-studio-code.svg" alt="vscode" width="40" height="40" /></a>
 </p>
 
 
-<!--profile visit count-->
+
+---
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=iahmedelbayaa=3&color=7)](https://visitcount.itsvg.in)
-  
+
+
+
+
+
+#### 🅒🅘 / 🅒🅓
+![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci)
+![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
+![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins)
+
+#### 🅓🅐🅣🅐 🅑🅐🅢🅔 / 🅢🅣🅐🅣🅔
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+
+
+#### 🅥🅔🅡🅢🅘🅞🅝 🅒🅞🅝🅣🅡🅞🅛
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+
 </div>
 
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<details>
+  <summary>Skills</summary>
+  
+- Problem Solving
+- Critical Thinking
+- Web Content Writing
+- Researching $ Learning
+</details>
+
+<details>
+  <summary>Hobbies</summary>
+🍽️ 🛌 👨🏻‍💻 🔁 
+</br> 
+  🌏 Traveling
+  📚 Learning
+  🎮 Video Games
+  🎧 Listening to Music
+</details>
 
 
-----------------------------------------------------------------------
+
+
+<hr />
+<div align="center">
+  <i>❝ᴅᴏ ᴡʜᴀᴛ ʏᴏᴜʀ ʜᴇᴀʀᴛ ᴛᴇʟʟꜱ ʏᴏᴜ ᴛᴏ ᴅᴏ ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ʙᴏᴜɴᴅ ᴛᴏ ꜰᴏʟʟᴏᴡ ᴛʜᴇ ᴏʀᴅᴇʀꜱ!<br><b>ᴀɴᴅ ʏᴏᴜ ᴀɴᴅ ʙᴇᴄᴏᴍᴇ ꜱʟᴀᴠᴇ, ᴛʜᴀᴛ ᴛʜᴇʏ ᴡᴀɴᴛ ʏᴏᴜ ᴛᴏ ʙᴇ ✨🥷</b>.<br>ʟᴇᴀʀɴ, ᴡʜᴀᴛ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ʟᴇᴀʀɴ ᴅᴏ ᴡʜᴀᴛ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴅᴏ<br><b>ᴊᴜꜱᴛ ᴘʀᴏᴠᴇ ᴛʜᴇᴍ ᴡʀᴏɴɢ. 🥷🎭 ɴᴇᴠᴇʀ ꜰᴏʀɢᴇᴛ ᴛʜɪꜱ.✨</b>❞</i>
+</div>
+
+<!-- 
+<p align="center">
+<a href=#><img width="40" src="no-food.gif"></a>
+<a href=#><img width="40" src="sleep.gif"></a>
+<a href=#><img width="40" src="coding.gif"></a>
+<a href=#><img width="40" src="repeat.png"></a>
+</p>  -->
+
+---
+
+<!--
+| Project | Description | Built with |
+| ------- | ----------- | ---------- |
+|[Karaage](https://www.karaage.com/)|Karaage provides detailed instructions on how to prepare karaage, including the ingredients needed, step-by-step instructions, and photos to help readers visualize the process.|Next, Rapid Api, Laravel, Mysql|
+|[Adventure Academy](https://www.adventureacademy.com/)|Adventure Academy is an online educational platform designed for children between the ages of 8 and 13. Built with React, the website provides an interactive learning experience in a virtual world environment.|React, Node, Express, Firebase, Unity|
+|[Supermetrics](https://supermetrics.com/)|Supermetrics is a data analytics tool that allows users to gather and analyze data from multiple sources, such as social media platforms, advertising networks, and website analytics tools, all in one place.|Saas, Crm solution|
+|[Nefty Market](https://nefty-nft.vercel.app/#/)|World’s First Solana NFT Marketplace with Virtual Reality with Next. Explore, Buy, Sell and Create NFT’s on this Solana Marketplace. All NFTs on this site have been vetted for provenance and authenticity.|Nft, Solana|
+|[Saas For business](https://github.com/Dmoon16/Saas-business)|Saas app for business|React, Material-UI, Next, MobX, WebSockets, Express, Node|
+|[Ecommerce-Next](https://github.com/Dmoon16/ecommerce-next)|Beautiful and clean Ecommerce Platform with Next|Next, TailwindCss|
+|[Caption Meow](https://github.com/Dmoon16/caption-meow)|An open-source social network that provides a daily creative challenge for cat lovers to come up with witty captions for cat photos while competing with other users.|React, Firebase|
+|[Twitter Gallery](https://github.com/Dmoon16/gallery-twitter)|A Next.js application that allows you to easily browse and filter media files from Twitter users.|Next.js, Redis, TailwindCSS, Twitter API SDK|
+|[Solana Nft Multi Staking](https://github.com/Dmoon16/nft-multi-staking-solana-react)|Barnyard NFT Staking, Land, Animal, Farmer, Solana, $Wheat token.|React, Web3, Rust|
+|[My Voice](https://github.com/emrecoban/my-voice)|An Android app helps disabled people. The project's aim is to help disabled people to able to communicate more easily with people who do not know sign language.|Java, TextToSpeech|
+</p>  -->
+
