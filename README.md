@@ -50,7 +50,6 @@
   🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴
    </p>
 <p align="center">
-<a href="https://www.buymeacoffee.com/aashisjha" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
 <a href="https://discord.com/users/iahmedelbayaa" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
 <a href="https://iahmedelbayaa.github.io/ahmed-elbayaa-portfolio/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://fb.com/iahmedelbayaa" target="_blank"><img alt="" src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998" style="vertical-align:center" /></a>
