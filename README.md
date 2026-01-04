@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elbayaa </h1>
 <h3 align="center">Back-end Software Engineer </h3>
-<h2 align="center"><a href="https://drive.google.com/file/d/1pXE5oVOAM0nXoKU8AUQXZiUzYyoJo9W6/view?usp=sharing">NodeJs Resume</a></h1>
-<h2 align="center"><a href="https://drive.google.com/file/d/1pXE5oVOAM0nXoKU8AUQXZiUzYyoJo9W6/view?usp=sharing">Java Spring-boot Resume</a></h1>
+<h2 align="center"><a href="https://drive.google.com/file/d/1pXE5oVOAM0nXoKU8AUQXZiUzYyoJo9W6/view?usp=sharing">My Resume</a></h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iahmedelbayaa&label=Profile%20views&color=0e75b6&style=flat" alt="iahmedelbayaa" /> </p>
